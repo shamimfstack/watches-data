@@ -1,0 +1,27 @@
+[
+    {
+      "id": "SW101",
+      "name": "Smartwatch Model A",
+      "price": 999.99
+    },
+    {
+      "id": "SW102",
+      "name": "Smartwatch Model B",
+      "price": 549.99
+    },
+    {
+      "id": "SW103",
+      "name": "Smartwatch Model C",
+      "price": 249.99
+    },
+    {
+      "id": "SW104",
+      "name": "Smartwatch Model D",
+      "price": 179.99
+    },
+    {
+      "id": "SW105",
+      "name": "Smartwatch Model E",
+      "price": 299.99
+    }
+  ]
